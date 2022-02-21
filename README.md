@@ -1,1 +1,1 @@
-# ALY6000-FINALPROJECT
+This is ALY6000's final project. Working on the Loan Approval Dataset offered me a full understanding of data visualisations and how to gain a strong insight of the dataset. It also aided me in developing a thorough understanding of the financial industry.
